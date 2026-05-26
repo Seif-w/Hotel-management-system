@@ -1,0 +1,8 @@
+﻿  Hotel Management algo.cpp
+D:\c++\Hotel Management algo\Hotel Management algo.cpp(48,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\Hotel Management algo\Hotel Management algo.cpp(52,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\Hotel Management algo\Hotel Management algo.cpp(93,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\Hotel Management algo\Hotel Management algo.cpp(102,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\Hotel Management algo\Hotel Management algo.cpp(125,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\Hotel Management algo\Hotel Management algo.cpp(135,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Hotel Management algo.vcxproj -> D:\c++\Hotel Management algo\x64\Debug\Hotel Management algo.exe
